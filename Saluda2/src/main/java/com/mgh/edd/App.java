@@ -1,4 +1,4 @@
-package Saluda2.src.main.java.com.mgh.edd;
+package com.mgh.edd;
 
 /**
  * Hello world!

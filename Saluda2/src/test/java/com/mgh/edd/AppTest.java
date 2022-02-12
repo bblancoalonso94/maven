@@ -1,4 +1,4 @@
-package Saluda2.src.test.java.com.mgh.edd;
+package com.mgh.edd;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
